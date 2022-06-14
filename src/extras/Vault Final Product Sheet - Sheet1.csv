@@ -1,0 +1,59 @@
+cateogry,productName,brandNumber,mrp,volumeml,stock,balance
+Scotch Whiskey,100 Pipers,0370,"2,420",750,815,815
+Scotch Whiskey,100 Pipers 12 Years,7458,"3,200",750,100,100
+Scotch Whiskey,Ballantines Finest,8096,"2,200",750,742,742
+Scotch Whiskey,Black & White 8 Years,0163,"3,200",750,54,54
+Scotch Whiskey,Black Dog Black Reserve (8 years),0583,"2,320",750,300,300
+Scotch Whiskey,Black Dog Triple Gold Reserve (12 Years),7292,"3,170",750,0,0
+Scotch Whiskey,Blenders Pride,0361,"1,450",750,133,133
+Scotch Whiskey,Chivas Regal 12 Years,7191,"5,920",750,1102,1102
+Scotch Whiskey,Chivas Regal 18 Years,9604,"8,320",750,48,48
+Scotch Whiskey,Dewars 12 Years,8764,"2,320",750,50,50
+Scotch Whiskey,Johnnie Walker Black Label ,8098,"5,180","1,000",333,333
+Scotch Whiskey,Johnnie Walker Blue Label,8664,"21,850","1,000",50,50
+Scotch Whiskey,Johnnie Walker Double Black,8120,"4,960","1,000",175,175
+Scotch Whiskey,Johnnie Walker Red Label,9099,"2,760","1,000",0,0
+Scotch Whiskey,Teachers 50,0235,"3,200",750,400,400
+Scotch Whiskey,Teachers Highland Cream,0239,"2,310",750,400,400
+Scotch Whiskey,William Lawsons,7128,"2,160",750,300,300
+Single Malt Whiskey,Glenfiddich 15 Years,8052,"8,560","1,000",0,0
+Single Malt Whiskey,Glenlivet 12 Years,7194,"4,900",750,386,386
+Single Malt Whiskey,Glenlivet 15 Years,9016,"7,240",700,0,0
+American Whiskey,J&B Rare,8121,"3,130",750,25,25
+American Whiskey,Jack Daniels Tenessee,0996,"3,910",750,0,0
+American Whiskey,Jim Beam Black/White,7008,"2,670",750,35,35
+Irish Whiskey,Jamesons,8031,"2,840",750,910,910
+Vodka,Absolut,8006,"2,510",750,1465,1465
+Vodka,Grey Goose,9004,"4,510","1,000",0,0
+Vodka,Ketel One,8112,"3,190",750,50,50
+Vodka,Ciroc,0,0,0,100,100
+Vodka,Alambac,0,0,0,150,150
+Vodka,Smirnoff,7020,"1,000",750,2450,2450
+Gin,Beefeater Gin,8607,"2,450",750,100,100
+Gin,Bombay Sapphire,8001,"2,680",750,0,0
+Gin,Brokers London Dry Gin,0914,"4,070",750,0,0
+Gin,Gordon's Gin,8119,"3,240",750,0,0
+Rum,Bacardi Black,7505,710,750,588,588
+Rum,Bacardi White,9740,0,0,0,0
+Rum,Hercules Bianco Superior White,374,930,750,0,0
+Rum,Captain Morgan,0044,530,750,0,0
+Brandy,Kyron,0398,"1,300",750,391,391
+Brandy,Mansion House,0070,580,750,300,300
+Brandy,Morpheus,0338,980,750,350,350
+Tequila,Camino Gold,7123,"2,560",750,0,0
+Tequila,Sauza Gold,8327,"2,980","1,000",0,
+Tequila,Sauza Silver,8326,"2,620","1,000",0,0
+Red Wine,Jacobs Creek Shiraz,3753,"1,500",750,130,130
+Red Wine,Sula Cabernet Shiraz,3639,"1,580",750,15,15
+White Wine,Jacobs Creek Chardonnay,3752,"1,500",750,0,0
+White Wine,Sula Chenin Blanc,3688,"1,460",750,0,0
+Sparlking Wine,Sula Brut Methode Traditionnelle,2667,"1,850",750,5,5
+Sparlking Wine,Jacob's Creek Chardonnay Pinot noir,3873,"2,120","1,000",0,0
+Shots,Balleys,BIC001,"2,500",750,97,97
+Beer,Bezawiser Ltr,BW013,70,"1,000",1116,1116
+Beer,Affida-wit Ltr,AW014,70,"1,000",600,600
+Beer,Bit-weet Ltr,BZ015,70,"1,000",1411,1411
+Beer,Farmhouse Ale Ltr,FA016,70,"1,000",501,501
+Beer,Brewer's Blend Ltr,BB085,70,"1,000",600,600
+Beer,Vault's Special Ltr,VS086,70,"1,000",1941,1941
+Beer,Bae of Bengal Ltr,BOB017,70,"1,000",295,295
